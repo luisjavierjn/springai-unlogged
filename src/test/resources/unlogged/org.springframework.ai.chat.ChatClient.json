@@ -1,0 +1,7 @@
+{
+  "classname" : "org.springframework.ai.chat.ChatClient",
+  "storedCandidateMap" : { },
+  "declaredMockMap" : {
+    "org.springframework.ai.chat.ChatClient#call#(Ljava/lang/String;)Ljava/lang/String;" : [ ]
+  }
+}
